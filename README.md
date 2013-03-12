@@ -1,10 +1,1 @@
-tmx2lua
-=======
-
-Convert TMX files into Lua scripts
-
-## Usage
-
-    $ tmx2lua path/to/map.tmx
-
-This will output path/to/map.lua
+The master repository has moved to: https://github.com/hawkthorne/tmx2lua
